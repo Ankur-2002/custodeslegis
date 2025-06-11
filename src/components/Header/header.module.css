@@ -176,7 +176,7 @@
 
 @media (max-width: 900px) {
   .headings {
-    height: calc(100vh - 80px);
+    height: calc(100dvh - 80px);
   }
 
   .heading1 {
