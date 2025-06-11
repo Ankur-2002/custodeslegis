@@ -73,10 +73,6 @@
 }
 
 @media (max-width: 600px) {
-  .contactFormContainer {
-    padding: 20px;
-  }
-
   .contactFormHeading {
     font-size: 20px;
   }
